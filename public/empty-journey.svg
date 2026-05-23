@@ -1,0 +1,19 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- Ground line -->
+<line x1="0" y1="260" x2="400" y2="260" stroke="#E5E5E5" stroke-width="2"/>
+<!-- Winding road -->
+<path d="M80 260 Q 120 240 140 220 Q 170 190 160 160 Q 150 130 170 110 Q 190 90 200 70" stroke="#D4D4D4" stroke-width="3" fill="none" stroke-linecap="round"/>
+<!-- Road markings -->
+<path d="M95 255 Q 130 238 148 220" stroke="#D4D4D4" stroke-width="1.5" fill="none" stroke-dasharray="6 6"/>
+<path d="M158 158 Q 150 132 168 112" stroke="#D4D4D4" stroke-width="1.5" fill="none" stroke-dasharray="6 6"/>
+<!-- Horizon glow -->
+<circle cx="200" cy="65" r="12" fill="#F05A28" fill-opacity="0.15"/>
+<!-- Orange dot at vanishing point -->
+<circle cx="200" cy="65" r="4" fill="#F05A28"/>
+<!-- Mountain silhouettes in background -->
+<path d="M50 260 L 100 200 L 150 260 Z" fill="#F5F5F5"/>
+<path d="M280 260 L 340 180 L 400 260 Z" fill="#F5F5F5"/>
+<!-- Small tree markers -->
+<circle cx="60" cy="255" r="3" fill="#E5E5E5"/>
+<circle cx="350" cy="255" r="3" fill="#E5E5E5"/>
+</svg>

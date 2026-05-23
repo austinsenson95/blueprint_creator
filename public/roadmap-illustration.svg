@@ -1,0 +1,33 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- Calendar body -->
+<rect x="15" y="25" width="90" height="80" rx="8" fill="white" stroke="#D4D4D4" stroke-width="2"/>
+<!-- Calendar header -->
+<rect x="15" y="25" width="90" height="22" rx="8" fill="#0A0A0A"/>
+<rect x="15" y="39" width="90" height="8" fill="#0A0A0A"/>
+<!-- Calendar rings -->
+<circle cx="40" cy="25" r="4" fill="#F05A28"/>
+<circle cx="80" cy="25" r="4" fill="#F05A28"/>
+<!-- Timeline line -->
+<line x1="30" y1="80" x2="90" y2="80" stroke="#E5E5E5" stroke-width="3" stroke-linecap="round"/>
+<!-- Milestone 1 (completed) -->
+<circle cx="35" cy="80" r="8" fill="#ECFDF5" stroke="#059669" stroke-width="2"/>
+<path d="M32 80 L34 82 L38 78" stroke="#059669" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- Milestone 2 (current) -->
+<circle cx="60" cy="80" r="8" fill="#FFF0EB" stroke="#F05A28" stroke-width="2"/>
+<circle cx="60" cy="80" r="3" fill="#F05A28"/>
+<!-- Milestone 3 (upcoming) -->
+<circle cx="85" cy="80" r="8" fill="white" stroke="#D4D4D4" stroke-width="2"/>
+<!-- Flag 1 -->
+<line x1="35" y1="72" x2="35" y2="55" stroke="#059669" stroke-width="1.5"/>
+<path d="M35 55 L48 58 L35 61 Z" fill="#059669"/>
+<!-- Flag 2 (orange, current) -->
+<line x1="60" y1="72" x2="60" y2="50" stroke="#F05A28" stroke-width="1.5"/>
+<path d="M60 50 L73 53 L60 56 Z" fill="#F05A28"/>
+<!-- Flag 3 (gray, upcoming) -->
+<line x1="85" y1="72" x2="85" y2="55" stroke="#D4D4D4" stroke-width="1.5"/>
+<path d="M85 55 L98 58 L85 61 Z" fill="#D4D4D4"/>
+<!-- Week labels -->
+<rect x="25" y="98" width="20" height="3" rx="1.5" fill="#E5E5E5"/>
+<rect x="50" y="98" width="20" height="3" rx="1.5" fill="#E5E5E5"/>
+<rect x="75" y="98" width="20" height="3" rx="1.5" fill="#E5E5E5"/>
+</svg>

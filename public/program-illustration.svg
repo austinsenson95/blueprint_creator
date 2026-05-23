@@ -1,0 +1,23 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- Document body -->
+<rect x="25" y="15" width="70" height="90" rx="8" fill="white" stroke="#D4D4D4" stroke-width="2"/>
+<!-- Page fold -->
+<path d="M75 15 L95 15 L95 35 Z" fill="#F5F5F5" stroke="#D4D4D4" stroke-width="1.5" stroke-linejoin="round"/>
+<!-- Top line -->
+<rect x="35" y="42" width="50" height="3" rx="1.5" fill="#0A0A0A"/>
+<!-- Checkmark 1 -->
+<circle cx="40" cy="56" r="7" fill="#ECFDF5"/>
+<path d="M37 56 L39 58 L43 54" stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="52" y="54" width="30" height="3" rx="1.5" fill="#D4D4D4"/>
+<!-- Checkmark 2 -->
+<circle cx="40" cy="74" r="7" fill="#ECFDF5"/>
+<path d="M37 74 L39 76 L43 72" stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="52" y="72" width="25" height="3" rx="1.5" fill="#D4D4D4"/>
+<!-- Checkmark 3 -->
+<circle cx="40" cy="92" r="7" fill="#ECFDF5"/>
+<path d="M37 92 L39 94 L43 90" stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="52" y="90" width="28" height="3" rx="1.5" fill="#D4D4D4"/>
+<!-- Star badge -->
+<circle cx="88" cy="88" r="18" fill="#FFF0EB" stroke="#F05A28" stroke-width="2"/>
+<path d="M88 78 L91 85 L98 86 L93 91 L94 98 L88 95 L82 98 L83 91 L78 86 L85 85 Z" fill="#F05A28"/>
+</svg>
